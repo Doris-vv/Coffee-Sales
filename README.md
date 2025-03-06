@@ -17,7 +17,7 @@ You can find the file in the repository.
 |PowerPoint       |Present the insight and action plan|
 |GitHub      |Hosting the project documentation and version control                          |
 
-## Data Transforming
+## Data Transforming with Excel
 There are 3 sheets, the data can be transformed into 1 sheet through dax measures.
 #### The column of Customer Name, Email, Country, City and Loyalty Card
 ```
@@ -35,4 +35,11 @@ IF(K2="M","Medium",IF(K2="L","Light",IF(K2="D","Dark","")))
 
 ## Data Visualization
 
+## Findings
+1.The busiest days are Wedesday and Saturday. The most leisure day is Thursday.
+2.Arabica is the most popular coffee type.
+3.Most people choose the 0.5kg size coffee.
+4.More than half people don't use Loyalty Card.
 
+## Conclusion
+The outlet should capitalize on 0.5kg Aribica coffee, and give more discounts and sell different types of coffee to attract more people using Loyalty Card.
