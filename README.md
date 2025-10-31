@@ -34,6 +34,7 @@ IF(K2="M","Medium",IF(K2="L","Light",IF(K2="D","Dark","")))
 ```
 
 ## Data Visualization
+![tab](https://github.com/Doris-vv/Coffee-Sales/blob/main/tab.png)
 
 ## Findings
 1.The busiest days are Wedesday and Saturday. The most leisure day is Thursday.
