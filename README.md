@@ -1,5 +1,5 @@
 # Coffee Sales Project - Excel & Tableau & Powerpoint
-Watch this presentation on Linkdin at
+Watch this presentation on Linkedin at https://www.linkedin.com/posts/qingxiao-wang-471b19271_hi-here-is-the-presentation-of-coffee-orders-activity-7390075197543948288-86kn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEKNJFUBKME9GQ9vI0NKh9siqFpdKjeHYEQ
 
 The raw data for this project is presented in 3 sheets of 1 CSV file. This data represents coffee sales order, and they need to answer a few questions which will help them make important decisions to increase sales and improve their business.
 
@@ -37,9 +37,15 @@ IF(K2="M","Medium",IF(K2="L","Light",IF(K2="D","Dark","")))
 
 ## Findings
 1.The busiest days are Wedesday and Saturday. The most leisure day is Thursday.
+
 2.Arabica is the most popular coffee type.
+
 3.Most people choose the 0.5kg size coffee.
+
 4.More than half people don't use Loyalty Card.
+
+## Presentation
+I made a video on Linkedin to present the project. You can find the PowerPoint presentation in the repository.
 
 ## Conclusion
 The outlet should capitalize on 0.5kg Aribica coffee, and give more discounts and sell different types of coffee to attract more people using Loyalty Card.
